@@ -1,0 +1,13 @@
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\admin.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\admin.Properties.Resources.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\admin.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\admin.csproj.CoreCompileInputs.cache

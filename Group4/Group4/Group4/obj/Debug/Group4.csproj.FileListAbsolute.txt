@@ -1,0 +1,402 @@
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\coachdb.mdf
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\coachdb_log.ldf
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Members_Database.mdf
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Members_Database_log.ldf
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\U S E R\Desktop\oop\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\U S E R\Desktop\oop\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\U S E R\Desktop\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\U S E R\Desktop\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\U S E R\Desktop\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\U S E R\Desktop\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\U S E R\Desktop\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\U S E R\Desktop\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\coachdb.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\coachdb_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Manager.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Manager_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Members_Database.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Members_Database_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\coachdb.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\coachdb_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Manager.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Manager_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Members_Database.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Members_Database_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group44.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (4)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group44_log.ldf
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\U S E R\Documents\GitHub\IOOP-Group-Assignment\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\coachdb.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\coachdb_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Manager.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Manager_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Members_Database.mdf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Members_Database_log.ldf
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\U S E R\Downloads\IOOP-Group-Assignment-main (9)\IOOP-Group-Assignment-main\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\Loong\source\repos\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\Loong\source\repos\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\Loong\source\repos\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\Loong\source\repos\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\Loong\source\repos\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\Loong\source\repos\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\Group4\Group4\obj\Debug\Group4.pdb
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\bin\Debug\Group4.mdf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\bin\Debug\Group4_log.ldf
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\bin\Debug\Group4.exe.config
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\bin\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\bin\Debug\Group4.pdb
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.AddComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.CompetitionDetailsForm.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.EditComp.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmCompetition.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmenroll.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmIncome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmLogin.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmMain.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmAdminHome.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmManage.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmModify.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmpayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmperform.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmrecom.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmReset.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmReset2.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmResult.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmschedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmSecurity.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmSuggestion.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmUpdate.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmUpdateProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmupdate_coach.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.frmViewStudent.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberSendFeedback.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.Members_Home_Menu.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewCompetitions.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewCourses.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewCoursesPayment.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewPerformance.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewProfile.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.memberViewSchedule.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.Properties.Resources.resources
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.exe
+C:\Users\sharo\source\repos\OscarLow02\OscarLow02\APU-Sports-Club-Management-System\Group4\Group4\Group4\obj\Debug\Group4.pdb
