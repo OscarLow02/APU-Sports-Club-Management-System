@@ -3,7 +3,7 @@
 Hello, Welcome to our codespace. 
 
 Member:
-  1. Low Jun Hong (Work on Manager)
+  1. Low Jun Hong (Work on Manager) /* Me */
   2. Toh Xin Yi (Work on Admin)
   3. Foo Wei Loong (Work on Member)
   4. Liang Tian Heng (Work on Coach)
